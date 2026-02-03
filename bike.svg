@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400">
+  <rect width="640" height="400" fill="#f6f2ea" />
+  <rect x="24" y="24" width="592" height="352" rx="28" fill="#ffffff" stroke="#e6ded2" />
+  <circle cx="180" cy="270" r="70" fill="#c7d7cf" />
+  <circle cx="440" cy="270" r="70" fill="#d9c8a6" />
+  <rect x="210" y="190" width="220" height="12" rx="6" fill="#1f4b3b" />
+  <rect x="260" y="150" width="120" height="12" rx="6" fill="#c38b2c" />
+  <text x="56" y="140" font-family="Work Sans, Arial" font-size="18" fill="#1f2421">Bike Sales Analysis</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400">
+  <rect width="640" height="400" fill="#f6f2ea" />
+  <rect x="24" y="24" width="592" height="352" rx="28" fill="#ffffff" stroke="#e6ded2" />
+  <rect x="56" y="80" width="220" height="12" rx="6" fill="#1f4b3b" />
+  <rect x="56" y="110" width="420" height="10" rx="5" fill="#c38b2c" />
+  <rect x="56" y="160" width="140" height="160" rx="16" fill="#c7d7cf" />
+  <rect x="212" y="200" width="140" height="120" rx="16" fill="#d9c8a6" />
+  <rect x="368" y="180" width="200" height="140" rx="16" fill="#e8e1d4" />
+  <text x="56" y="60" font-family="Work Sans, Arial" font-size="18" fill="#1f2421">Retail Sales Performance</text>
+</svg>
